@@ -35,6 +35,19 @@ main {
   overflow: hidden;
   display: flex;
 }
+.instruction-box {
+  padding: 2rem;
+  margin-right: 2rem;
+  width: 35rem;
+  border: 2px dashed #fff;
+}
+.instructions {
+  font-size: 2rem;
+  color: #fff;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
 
 .player {
   flex: 50%;
